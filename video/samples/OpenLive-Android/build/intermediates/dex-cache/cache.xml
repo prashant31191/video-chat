@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.gradle\caches\modules-2\files-2.1\com.github.tony19\logback-android-classic\1.1.1-4\f20b1158fcca0aef6043886ef8605556a09058ca\logback-android-classic-1.1.1-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f20b1158fcca0aef6043886ef8605556a09058ca">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\logback-android-classic-1.1.1-4_228b815b0d0e3fbca301cd2bab401d49215e1509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\18cf855a9fae1d6fd8f57bd4fc7219a68401cfd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_e4f3fefe2ab2e4d43fc8abbd9e08251b9a2c5db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\b4f9328dd97a40c4b62c07fa48e5f3268e677a18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_85054bab83b927c8869d3e2746dd8aa989fea1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\d676e9e464e87b66668ac869e40abe0d14cbbf52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_d93b52681c4fe1b1d97d688c52b3e77dba4f7201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Studio_SDK\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_391be80d6c7c8612a3f402068fd0a4fcab3ba497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\1862262cc99b5a67ba4d49a993a42484be5b609d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_66baeb60b7ed2e56a9a781fb6367afaa5f738bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\94934a23853db57adc979a5fcbb07419a0db73b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_ca8d5c9a2f841efc18b853366da4c17575fb0618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\cc8d82585fd9f634d88128ae81d21e3c95a5cd58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_cda795281df0996af1339d7e218ace1b18362c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\f019e06d361d5e4e7cf7d2c116e6c6dbf8040299\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_606303b086755a3e3d7bd75f5a498094a21bbc79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\e0c268556c4075e7eb8c94b13a8e352b72becbf6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_cdb1b493b6b3ed74cf835efb5a12ad6352138f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.21\139535a69a4239db087de9bab0bee568bf8e0b70\slf4j-api-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.21_287ac5047a74c6f40c91ae930f69f201cc9f1870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.gradle\caches\modules-2\files-2.1\com.github.tony19\apktool-lib\1.4.4-3\1d0125bf578cb30dd192496db56c2d937495248a\apktool-lib-1.4.4-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\apktool-lib-1.4.4-3_4d69a412e1c324b25e88ee923a92416db7fad7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\b2cffb2b90dd25cff0381b65683a526ffefcb350\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_fbbd9c197b2555769c1e0776ffff04365c11721f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Prashant\RND-apps\chatting\Agora_Native_Video\libs\agora-rtc-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b52479ecc17e4f3cf5f5e0ceb749a5b43a8c8714">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\agora-rtc-sdk_cf68fe55666883635b709d9de706333172d18146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.gradle\caches\modules-2\files-2.1\com.github.tony19\logback-android-core\1.1.1-4\cd422166cca6c3d930309a6685ea3f40c91942ce\logback-android-core-1.1.1-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd422166cca6c3d930309a6685ea3f40c91942ce">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\logback-android-core-1.1.1-4_62a49644aabedb19084d9066a50c1635a7bd795b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\2e577084df63150a7ad78c8790fa05f3fae199d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_5d245c904b09fc879e7715860897094f8854aa67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\a76a2f7a87d4f51d03d6818a2a419359d5c4de23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_76cc57ccf2c0d0da75e7c74e140fd533d2615756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\prashant.chovatiya\.android\build-cache\1e9896d500f034c911dccb32da3efd347dda1619\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Prashant\RND-apps\chatting\Agora_Native_Video\samples\OpenLive-Android\app\build\intermediates\pre-dexed\debug\classes_9a1ef32e2361c443cc2208c3d3df8bbf1dd1ebed.jar" />
+    </item>
+
+</items>
